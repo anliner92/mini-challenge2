@@ -1,0 +1,9 @@
+.challenge ul {
+  list-style: none;
+  display: flex;
+}
+
+.challenge ul li {
+  font-size: 25px;
+  margin: 0 10px;
+}
